@@ -120,7 +120,6 @@ article .video + ul {
 }
 
 article  margin-top: 82px;
-}
 
 article h3 + .video {
   margin-top: 81px;
@@ -183,4 +182,5 @@ background: black;
   article > * {
     width: calc(100% - 40px);
   }
+}
 }
